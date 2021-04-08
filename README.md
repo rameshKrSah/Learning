@@ -8,3 +8,7 @@
 ## Markdown
 - [Complete guide to Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [Complete list of Markdown emojis](https://github.com/ikatyang/emoji-cheat-sheet)
+
+
+## GitHub Actions and MLOps
+- [Pages](https://mlops.githubapp.com/)
