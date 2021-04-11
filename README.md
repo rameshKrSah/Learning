@@ -12,3 +12,7 @@
 
 ## GitHub Actions and MLOps
 - [Pages](https://mlops.githubapp.com/)
+
+
+## Machine Learning
+- [Exploring Bayesian Optimization](https://distill.pub/2020/bayesian-optimization/)
