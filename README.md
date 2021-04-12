@@ -16,3 +16,4 @@
 
 ## Machine Learning
 - [Exploring Bayesian Optimization](https://distill.pub/2020/bayesian-optimization/)
+- [A Comprehensive Introduction to Linear Algebra](https://pabloinsente.github.io/intro-linear-algebra)
