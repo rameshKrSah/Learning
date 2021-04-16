@@ -20,6 +20,7 @@
 - [A Complete Data Science Workflow](https://towardsdatascience.com/the-data-science-workflow-43859db0415)
 - [Machine Learning with scikit-learn](https://inria.github.io/scikit-learn-mooc/)
 - [Machine Learning with graphs](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
+- [AutoML MOOC](https://ki-campus.org/courses/automl2020?locale=en)
 
 ## Kaggle 
 - [Collection of some of the best kernels](https://www.kaggle.com/general/110770)
