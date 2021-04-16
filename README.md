@@ -19,3 +19,4 @@
 - [A Comprehensive Introduction to Linear Algebra](https://pabloinsente.github.io/intro-linear-algebra)
 - [A Complete Data Science Workflow](https://towardsdatascience.com/the-data-science-workflow-43859db0415)
 - [Machine Learning with scikit-learn](https://inria.github.io/scikit-learn-mooc/)
+- [Machine Learning with graphs](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
