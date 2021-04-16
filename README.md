@@ -20,3 +20,8 @@
 - [A Complete Data Science Workflow](https://towardsdatascience.com/the-data-science-workflow-43859db0415)
 - [Machine Learning with scikit-learn](https://inria.github.io/scikit-learn-mooc/)
 - [Machine Learning with graphs](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
+
+## Kaggle 
+- [Collection of some of the best kernels](https://www.kaggle.com/general/110770)
+- [EDA kernels for tabular data](https://www.kaggle.com/vbmokin/eda-for-tabular-data-advanced-techniques)
+- [Awesome kaggle kernels](https://github.com/alfarias/awesome-kaggle-kernels)
