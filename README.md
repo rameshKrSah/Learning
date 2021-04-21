@@ -26,3 +26,4 @@
 - [Collection of some of the best kernels](https://www.kaggle.com/general/110770)
 - [EDA kernels for tabular data](https://www.kaggle.com/vbmokin/eda-for-tabular-data-advanced-techniques)
 - [Awesome kaggle kernels](https://github.com/alfarias/awesome-kaggle-kernels)
+- [Underrated Kaggle kernels](https://www.kaggle.com/headsortails/hidden-gems-a-collection-of-underrated-notebooks/report)
