@@ -21,9 +21,15 @@
 - [Machine Learning with scikit-learn](https://inria.github.io/scikit-learn-mooc/)
 - [Machine Learning with graphs](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
 - [AutoML MOOC](https://ki-campus.org/courses/automl2020?locale=en)
+- [Gradient-based optimization](https://drive.google.com/file/d/1e_9W8q9PL20iqOR-pfK89eILc_VtYaw1/view)
+- [Machine Learning with Graphs](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
 
 ## Kaggle 
 - [Collection of some of the best kernels](https://www.kaggle.com/general/110770)
 - [EDA kernels for tabular data](https://www.kaggle.com/vbmokin/eda-for-tabular-data-advanced-techniques)
 - [Awesome kaggle kernels](https://github.com/alfarias/awesome-kaggle-kernels)
 - [Underrated Kaggle kernels](https://www.kaggle.com/headsortails/hidden-gems-a-collection-of-underrated-notebooks/report)
+
+
+## Statistics
+- [Statistical tests](https://lindeloev.github.io/tests-as-linear/)
