@@ -1,5 +1,7 @@
 # Learning
 
+## Python
+- [Scaling operations in Python](https://www.youtube.com/watch?v=wANQkgDuTAk)
 
 ## Website
 - [How to add favicon icon to your Jekyell website](https://ptc-it.de/add-favicon-to-mm-jekyll-site/)
