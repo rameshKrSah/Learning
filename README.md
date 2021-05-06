@@ -1,5 +1,10 @@
 # Learning
 
+
+## Research 
+- [How to write a good paper and a good review?](https://www.youtube.com/watch?v=W1zPtTt43LI)
+
+
 ## Python
 - [Scaling operations in Python](https://www.youtube.com/watch?v=wANQkgDuTAk)
 
