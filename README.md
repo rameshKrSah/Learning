@@ -30,6 +30,8 @@
 - [AutoML MOOC](https://ki-campus.org/courses/automl2020?locale=en)
 - [Gradient-based optimization](https://drive.google.com/file/d/1e_9W8q9PL20iqOR-pfK89eILc_VtYaw1/view)
 - [Machine Learning with Graphs](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
+- [Data as a Science](https://github.com/whythawk/data-as-a-science)
+- [Deep learning Spring 21, Uliege](https://github.com/glouppe/info8010-deep-learning)
 
 ## Kaggle 
 - [Collection of some of the best kernels](https://www.kaggle.com/general/110770)
