@@ -34,6 +34,7 @@
 - [Deep learning Spring 21, Uliege](https://github.com/glouppe/info8010-deep-learning)
 - [Annotated PyTorch ML papers](https://nn.labml.ai/index.html) - ML paper with side by side code implementation.
 - [Annotated 'Attention is all you need' paper](http://nlp.seas.harvard.edu/2018/04/03/attention.html)
+- [Data as a Science](https://github.com/whythawk/data-as-a-science)
 
 ## Kaggle 
 - [Collection of some of the best kernels](https://www.kaggle.com/general/110770)
@@ -44,3 +45,5 @@
 
 ## Statistics
 - [Statistical tests](https://lindeloev.github.io/tests-as-linear/)
+- [Graphical introduction to Statistics](https://seeing-theory.brown.edu/index.html)
+- [Stat 110: Probability](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
