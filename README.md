@@ -34,6 +34,7 @@
 - [Deep learning Spring 21, Uliege](https://github.com/glouppe/info8010-deep-learning)
 - [Annotated PyTorch ML papers](https://nn.labml.ai/index.html) - ML paper with side by side code implementation.
 - [Annotated 'Attention is all you need' paper](http://nlp.seas.harvard.edu/2018/04/03/attention.html)
+- [Philosophical foundations of Machine learning](https://github.com/acmi-lab/cmu-10721-philosophy-machine-intelligence)
 
 ## Kaggle 
 - [Collection of some of the best kernels](https://www.kaggle.com/general/110770)
